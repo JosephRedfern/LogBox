@@ -38,4 +38,3 @@ print "Load Average Logged";
 
 mysql_close();
 ?>
-?>
