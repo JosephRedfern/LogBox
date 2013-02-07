@@ -9,3 +9,6 @@ loadavg.php is a PHP script which uses the sys_getloadavg() function to find the
 I recommend that you set this script to be run as a cronjob - preferably every 5 minutes or so.
 
 I hope to soon release a script that will plot the data which the script records - although data analysis that isn't the primary purpose of this project. 
+
+
+Cheese is nice.
